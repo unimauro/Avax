@@ -24,5 +24,3 @@ for i in t:
 file1.close()
 print t
 
-#57SbOCvoQYn3
-#ccardenasf@pucp.pe
